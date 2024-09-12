@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hi there 👋
+## Проекты
+
 [Первое приложение](https://github.com/Cra5h23/java-explore-with-me)
 
 [Третье приложение](https://github.com/Cra5h23/java-filmorate)

@@ -1,5 +1,9 @@
 ## Hi there 👋
-[Ссылка](https://github.com/Cra5h23/java-explore-with-me)
+[Первое приложение](https://github.com/Cra5h23/java-explore-with-me)
+
+[Второе приложение](https://github.com/Cra5h23/java-filmorate)
+
+[Третье приложение](https://github.com/Cra5h23/java-shareit)
 <!--
 **Cra5h23/Cra5h23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -5,7 +5,7 @@
 
 <div id="socials" align="center">
     <a href="https://t.me/ReturnCra5h">
-        <img src="https://img.icons8.com/?size=30&id=63306&format=png&color=000000" alt="Telegram"/>
+        <img src="https://img.icons8.com/?size=10&id=63306&format=png&color=000000" alt="Telegram"/>
     </a>
 </div>
 ## Проекты 

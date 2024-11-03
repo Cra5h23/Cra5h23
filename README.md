@@ -3,6 +3,10 @@
     <h2>Я Java разработчик из Омска
 </div> 
 
+<a href="https://t.me/ReturnCra5h">
+    <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" alt="Telegram"/>
+</a>
+
 ## Проекты 
 
 [Первое приложение](https://github.com/Cra5h23/java-explore-with-me)

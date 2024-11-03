@@ -28,9 +28,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" title="junit" width="40" height="40"/>&nbsp;
 
 
+### Моя статистика
 
-
-
+<div id="stats" align="center">
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cra5h23&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cra5h23&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cra5h23&theme=default)
+</div>
 
 
 [Первое приложение](https://github.com/Cra5h23/java-explore-with-me)

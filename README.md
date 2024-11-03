@@ -7,6 +7,9 @@
     <a href="https://t.me/ReturnCra5h">
         <img src="https://img.icons8.com/?size=30&id=63306&format=png&color=000000" alt="Telegram"/>
     </a>
+    <a href="mailto:Novizdarialokin@ya.ru">
+        <img src="https://img.icons8.com/?size=30&id=63306&format=png&color=000000" alt="Почта"/>
+    </a>
 </div>
 ## Проекты 
 

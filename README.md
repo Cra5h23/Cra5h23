@@ -31,9 +31,11 @@
 ### Моя статистика
 
 <div id="stats" align="center">
+    
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Cra5h23&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Cra5h23&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Cra5h23&theme=default)
+
 </div>
 
 

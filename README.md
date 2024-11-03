@@ -19,7 +19,7 @@
 Люблю изучать новые технологии разбираться в сложных задачах. Буду рад поработать над интересными проектами.
 
 
-### В работе я использую следующие технологии средства
+### В работе я использую следующие технологии и средства
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title="java" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" title="spring" width="40" height="40"/>&nbsp;
